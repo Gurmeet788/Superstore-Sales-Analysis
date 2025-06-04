@@ -28,14 +28,12 @@ This project performs a comprehensive analysis of sales data from a fictional su
 ### 🔹 Bonus Features
 - **Moving Average**: 3-month moving average of sales to smooth trends
 - **Best Selling Product per Month**
-- **Box Plot**: Sales distribution across regions with outliers highlighted
 
 ## 📈 Visualizations
 
 - Bar chart: Top 10 products by sales
 - Pie chart: Sales by region
 - Line chart: Monthly sales & moving average
-- Box plot: Sales distribution by region
 
 ## 🛠️ Technologies Used
 
@@ -47,4 +45,4 @@ This project performs a comprehensive analysis of sales data from a fictional su
 - **Jupyter Notebook**
 
 📌 Author
-👨‍💻 Gurmeet —  [Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/gurmeet788))
+👨‍💻 Gurmeet —  [Kaggle](https://www.kaggle.com/gurmeet788)
